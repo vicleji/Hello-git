@@ -6,3 +6,4 @@ for i in range(10):
 
 print("Estoy modificando hello_git2.py main")
 
+print("He añadido un nuevo print")
